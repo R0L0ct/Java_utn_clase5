@@ -1,0 +1,5 @@
+Jabon en polvo,1,40,0,12312312312
+Esponjas,3,10,0,324234
+Chocolates,2,100,0,12341234123
+Heladera,1,50000,6,73564345
+Caja de herramientas,1,10000,3,234523452
