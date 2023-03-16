@@ -28,6 +28,6 @@ public class Carrito {
             total += item.costoFinal();
         }
 
-        return total;
+        return total - Descuento.descuento;
     }
 }
